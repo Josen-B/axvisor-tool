@@ -1,0 +1,1 @@
+本目录下的配置文件和镜像，用于在QEMU-aarch64下，通过运行axvisor以及axvisor-tool提供的Virtio GPU设备，从而让ruxos-vm1在屏幕上可输出图像。
